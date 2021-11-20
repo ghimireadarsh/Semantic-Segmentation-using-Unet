@@ -2,7 +2,10 @@
 As a part of assignment of Machine Vision and Image processing course, a UNET Model has been trained and tested on ISPRS Postdam dataset.
 
 Output samples
+
+
 ![output sample 1](output/sample1.png)
+
 ![output sample 2](output/sample2.png)
 
 The complete data visualization, model training, model testing and inference is also available in the notebook.
